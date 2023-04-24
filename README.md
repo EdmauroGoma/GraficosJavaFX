@@ -73,3 +73,4 @@ g.plotPontos(x, y, "Pontos", estilo, quadratica);
 g.show(stage);</code></pre>
 
 ![Gráfico de pontos com linha de tendência estilizada](https://github.com/mauriciophysics/GraficosJavaFX/blob/master/imagens/GraficoDePontosComLinhaDeTendenciaEstilizada.png)
+# DerivateAndGraphics
